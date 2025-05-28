@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+ {
+   "title": "Curso Licencia Tipo C",
+   "description": "Estudiantes practicando con vehículos de carga pesada en nuestras instalaciones especializadas.",
+   "largeImage": "img/3.png",
+   "smallImage": "img/3.png"
+ },
+ {
+   "title": "Formación Licencia Tipo D",
+   "description": "Instructor certificado enseñando técnicas de conducción de autobuses a nuestros estudiantes.",
+   "largeImage": "img/1.png",
+   "smallImage": "img/1.png"
+ },
+ {
+   "title": "Práctica Licencia Tipo E",
+   "description": "Clases prácticas de conducción de taxi con enfoque en servicio al cliente y geografía urbana.",
+   "largeImage": "img/3.png",
+   "smallImage": "img/3.png"
+ },
+ 
+ {
+   "title": "Licencia Tipo C1",
+   "description": "Entrenamiento especializado en vehículos de carga media para transporte comercial.",
+   "largeImage": "img/1.png",
+   "smallImage": "img/1.png"
+ },
+ 
+ {
+   "title": "Licencia Tipo D1",
+   "description": "Prácticas con minibuses para transporte turístico y ejecutivo con instructores expertos.",
+   "largeImage": "img/1.png",
+   "smallImage": "img/1.png"
+ },
+ {
+   "title": "Licencia Tipo E1",
+   "description": "Formación especializada en transporte escolar con enfoque en seguridad infantil.",
+   "largeImage": "img/3.png",
+   "smallImage": "img/3.png"
+ }
+],
+  "Services": [
+ {
+   "icon": "fa fa-truck",
+   "name": "Licencias de Carga",
+   "text": "Formación especializada para conductores de vehículos de carga pesada y media. Obtén tu licencia tipo C o C1 con instructores certificados y vehículos reales para práctica."
+ },
+ {
+   "icon": "fa fa-bus",
+   "name": "Transporte de Pasajeros",
+   "text": "Capacítate como conductor profesional de autobuses y minibuses. Cursos tipo D y D1 que incluyen normativas de transporte público y atención al cliente."
+ },
+ {
+   "icon": "fa fa-taxi",
+   "name": "Conductor de Taxi",
+   "text": "Conviértete en taxista profesional con nuestra licencia tipo E. Incluye geografía urbana, tarifas oficiales y excelente servicio al cliente en modalidad flexible."
+ },
+ {
+   "icon": "fa fa-graduation-cap",
+   "name": "Transporte Escolar",
+   "text": "Especialízate en transporte escolar e institucional con licencia tipo E1. Formación en seguridad infantil, primeros auxilios y responsabilidad social."
+ },
+ {
+   "icon": "fa fa-certificate",
+   "name": "Certificación Oficial",
+   "text": "Todos nuestros cursos están avalados por las autoridades competentes. Obtienes certificación oficial reconocida en todo Ecuador para ejercer profesionalmente."
+ },
+ {
+   "icon": "fa fa-users",
+   "name": "Instructores Expertos",
+   "text": "Contamos con más de 25 instructores certificados y experimentados. Formación personalizada con enfoque en seguridad vial y técnicas de conducción profesional."
+ }
+],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Rommel"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/foto.jpg",
+      "name": "Rafael",
+      "job": "Gerente"
+    },
+    {
+       "img": "img/foto.jpg",
+      "name": "Steven",
+      "job": "Director"
+    },
+    {
+      "img": "img/foto.jpg",
+      "name": "Rafael",
+      "job": "Gerente"
+    },
+    {
+      "img": "img/foto.jpg",
+      "name": "Steven",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "Av. Inca ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
